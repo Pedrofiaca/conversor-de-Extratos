@@ -175,3 +175,5 @@ cython_debug/
 .pypirc
 
 Versao_1.0.py
+output
+Versao_1.0.exe
