@@ -145,3 +145,4 @@ def gerar_excel_com_tabelas(tabelas, nome, caminho_arquivo_excel):
     
 if __name__ == '__main__':
     app.run(debug=True)
+
