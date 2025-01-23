@@ -1,3 +1,4 @@
+
 from flask import Flask, render_template, request, redirect, url_for, send_from_directory
 import os
 from docling.document_converter import DocumentConverter
@@ -145,4 +146,3 @@ def gerar_excel_com_tabelas(tabelas, nome, caminho_arquivo_excel):
     
 if __name__ == '__main__':
     app.run(debug=True)
-
